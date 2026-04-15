@@ -1,0 +1,1 @@
+{"name": "my-faction-ai","version": "1.0.0","description": "Real-time learning AI for WWE 2K game grinding strategies","scripts": {"dev": "npx http-server"},"keywords": ["wwe", "2k", "ai", "myfaction"]}
